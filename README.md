@@ -14,7 +14,7 @@ You could copy and paste the HTML and ERB for nav bar and make sure that code is
 In order to not repeat ourselves, we can create a single file `layout.erb` that contains all the code we want to exist on every single web page.
 
 
-Below is the HTML for a website that has a header and links to JavaScript files.
+Below is the HTML for a website that has a header and links to JavaScript files
 
 ```html
 <!doctype html>
